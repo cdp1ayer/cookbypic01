@@ -1,0 +1,5 @@
+{
+  "name": "看图做菜 (Cook by Picture)",
+  "description": "Upload a picture of a dish, and AI will generate a detailed recipe for you.",
+  "requestFramePermissions": []
+}
